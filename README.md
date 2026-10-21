@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on genetic variation in embryonic stem cells. 
-- 🌱 I’m currently learning distill and blogdown. 
-- 👯 I’m looking to collaborate on multi-omics data analysis
+- 🔭 I’m currently working on single cell data from embryonic stem cells. 
+- 🌱 I’m currently learning rapids-singlecell and using the gpu for single cell analysis.
 - 💬 Ask me about R and Rstudio!
 - 📫 How to reach me: https://selcan-aydin.netlify.app/
 - 😄 Pronouns: she/her/hers
